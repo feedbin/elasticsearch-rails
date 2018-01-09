@@ -1,3 +1,7 @@
+## 2.0.2
+
+* Fixed Hashie Mash warning log
+
 ## 2.0.1
 
 ### ActiveModel
